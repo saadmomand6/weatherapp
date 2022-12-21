@@ -1,7 +1,7 @@
 import 'package:weatherapp/services/location_service.dart';
 import 'package:weatherapp/services/networking_service.dart';
 
-const apikey = 'your api key';
+//const apikey = 'your api key';
 
 class WeatherModel {
      
